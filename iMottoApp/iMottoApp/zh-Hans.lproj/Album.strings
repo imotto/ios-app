@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "输入珍藏名称"; ObjectID = "0YC-nx-GwQ"; */
+"0YC-nx-GwQ.placeholder" = "输入珍藏名称";
+
+/* Class = "UILabel"; text = "Album summary label."; ObjectID = "EXY-AZ-zVe"; */
+"EXY-AZ-zVe.text" = "Album summary label.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LjO-9T-DVc"; */
+"LjO-9T-DVc.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "输入珍藏简要说明"; ObjectID = "SQr-Ja-NaL"; */
+"SQr-Ja-NaL.text" = "输入珍藏简要说明";
+
+/* Class = "UILabel"; text = "Album Title label"; ObjectID = "VNI-bC-oQ9"; */
+"VNI-bC-oQ9.text" = "Album Title label";
+
+/* Class = "UINavigationItem"; title = "加入珍藏"; ObjectID = "cl2-Pa-iWe"; */
+"cl2-Pa-iWe.title" = "加入珍藏";
+
+/* Class = "UILabel"; text = "创建于 2016-08-07"; ObjectID = "iiS-a1-4jY"; */
+"iiS-a1-4jY.text" = "创建于 2016-08-07";

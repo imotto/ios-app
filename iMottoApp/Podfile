@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git' 
+platform :ios, '8.0'
+
+use_frameworks!
+
+target 'iMottoApp' do
+    pod 'Alamofire', '~> 4.0'
+    pod 'KeychainAccess', '~> 3.0'
+    pod 'JTAppleCalendar', '~> 6.0'
+    pod 'ImageLoader', '~> 0.12'
+    pod 'SnapKit', '~> 3.0.2'
+    pod 'Cosmos', '~> 7.0'
+    pod 'UIColor_Hex_Swift', '~> 3.0.2'
+    pod 'KMPlaceholderTextView', '~> 1.3.0'
+    
+end

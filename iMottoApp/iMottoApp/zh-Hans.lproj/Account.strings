@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "忘记了密码？"; ObjectID = "5S1-Mp-jvJ"; */
+"5S1-Mp-jvJ.normalTitle" = "忘记了密码？";
+
+/* Class = "UILabel"; text = "iMotto"; ObjectID = "6cU-dX-zPq"; */
+"6cU-dX-zPq.text" = "iMotto";
+
+/* Class = "UIButton"; normalTitle = "现在拍摄"; ObjectID = "CQg-Xn-uHZ"; */
+"CQg-Xn-uHZ.normalTitle" = "现在拍摄";
+
+/* Class = "UILabel"; text = "注册即代表您同意"; ObjectID = "Db6-4g-ufa"; */
+"Db6-4g-ufa.text" = "注册即代表您同意";
+
+/* Class = "UIButton"; normalTitle = "注册一个账号"; ObjectID = "GY8-Gm-XC3"; */
+"GY8-Gm-XC3.normalTitle" = "注册一个账号";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "LTg-aa-6Vu"; */
+"LTg-aa-6Vu.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "更换"; ObjectID = "LUs-Vx-yhp"; */
+"LUs-Vx-yhp.text" = "更换";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "RUq-Ja-OWF"; */
+"RUq-Ja-OWF.placeholder" = "请输入手机号";
+
+/* Class = "UITextField"; placeholder = "验证码"; ObjectID = "SMS-px-N6h"; */
+"SMS-px-N6h.placeholder" = "验证码";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "ZSZ-AW-3DX"; */
+"ZSZ-AW-3DX.placeholder" = "请输入密码";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "aVP-ZP-UEK"; */
+"aVP-ZP-UEK.placeholder" = "请输入手机号";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "hA4-Ok-FI4"; */
+"hA4-Ok-FI4.normalTitle" = "登录";
+
+/* Class = "UITextField"; placeholder = "请设置登录密码"; ObjectID = "oQv-PN-2qG"; */
+"oQv-PN-2qG.placeholder" = "请设置登录密码";
+
+/* Class = "UIButton"; normalTitle = "现有照片"; ObjectID = "pmY-AC-D7R"; */
+"pmY-AC-D7R.normalTitle" = "现有照片";
+
+/* Class = "UITextField"; placeholder = "请输入显示的用户名"; ObjectID = "spP-t5-gXB"; */
+"spP-t5-gXB.placeholder" = "请输入显示的用户名";
+
+/* Class = "UIButton"; normalTitle = "发送验证码到手机"; ObjectID = "wAX-UE-blG"; */
+"wAX-UE-blG.normalTitle" = "发送验证码到手机";
+
+/* Class = "UILabel"; text = "iMotto"; ObjectID = "wLG-zl-gkV"; */
+"wLG-zl-gkV.text" = "iMotto";
+
+/* Class = "UIButton"; normalTitle = "iMotto用户协议"; ObjectID = "zaB-gz-35l"; */
+"zaB-gz-35l.normalTitle" = "iMotto用户协议";

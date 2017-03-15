@@ -1,0 +1,27 @@
+
+/* Class = "UINavigationItem"; title = "评论列表"; ObjectID = "1Dc-wd-cNM"; */
+"1Dc-wd-cNM.title" = "评论列表";
+
+/* Class = "UITextView"; text = "Write down your motto, make it imortal."; ObjectID = "1bl-vU-HvC"; */
+"1bl-vU-HvC.text" = "Write down your motto, make it imortal.";
+
+/* Class = "UILabel"; text = "评论内容。"; ObjectID = "DHT-Rn-NzX"; */
+"DHT-Rn-NzX.text" = "评论内容。";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pdz-0Z-lsx"; */
+"Pdz-0Z-lsx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "14"; ObjectID = "TyB-fH-9MH"; */
+"TyB-fH-9MH.text" = "14";
+
+/* Class = "UINavigationItem"; title = "喜欢的作品"; ObjectID = "XN0-9E-19z"; */
+"XN0-9E-19z.title" = "喜欢的作品";
+
+/* Class = "UINavigationItem"; title = "发表"; ObjectID = "deK-J2-DtQ"; */
+"deK-J2-DtQ.title" = "发表";
+
+/* Class = "UILabel"; text = "跳刀神牛："; ObjectID = "eNe-ny-K7m"; */
+"eNe-ny-K7m.text" = "跳刀神牛：";
+
+/* Class = "UILabel"; text = "32分钟前"; ObjectID = "k7d-jr-dZv"; */
+"k7d-jr-dZv.text" = "32分钟前";

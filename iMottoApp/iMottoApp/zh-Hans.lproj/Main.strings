@@ -1,0 +1,33 @@
+
+/* Class = "UITabBarItem"; title = "珍藏"; ObjectID = "4c5-tz-Gcg"; */
+"4c5-tz-Gcg.title" = "珍藏";
+
+/* Class = "UINavigationItem"; title = "Album"; ObjectID = "EJE-DU-O1a"; */
+"EJE-DU-O1a.title" = "Album";
+
+/* Class = "UITabBarItem"; title = "征集"; ObjectID = "EkR-YA-95P"; */
+"EkR-YA-95P.title" = "征集";
+
+/* Class = "UILabel"; text = "January,2016"; ObjectID = "Ob3-kR-Xt4"; */
+"Ob3-kR-Xt4.text" = "January,2016";
+
+/* Class = "UITabBarItem"; title = "作品"; ObjectID = "UUN-CA-rSf"; */
+"UUN-CA-rSf.title" = "偶得";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "XRh-He-Ly1"; */
+"XRh-He-Ly1.title" = "Title";
+
+/* Class = "UITabBarItem"; title = "消息"; ObjectID = "awZ-Bc-LxT"; */
+"awZ-Bc-LxT.title" = "消息";
+
+/* Class = "UINavigationItem"; title = "Message"; ObjectID = "da6-nB-zC6"; */
+"da6-nB-zC6.title" = "Message";
+
+/* Class = "UINavigationItem"; title = "Recruit"; ObjectID = "nF2-yt-Frp"; */
+"nF2-yt-Frp.title" = "Recruit";
+
+/* Class = "UINavigationItem"; title = "Motto"; ObjectID = "oWt-qG-EnN"; */
+"oWt-qG-EnN.title" = "Motto";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "xzQ-43-EMF"; */
+"xzQ-43-EMF.title" = "我";

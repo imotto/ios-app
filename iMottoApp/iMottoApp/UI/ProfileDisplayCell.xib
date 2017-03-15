@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="47" id="lWH-rF-GXc" customClass="ProfileDisplayCell" customModule="iMottoApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="lWH-rF-GXc" id="HeM-Sy-euP">
+                <rect key="frame" x="0.0" y="0.0" width="287" height="48"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Fcb-Dw-Ayp">
+                        <rect key="frame" x="8" y="8" width="32" height="32"/>
+                        <color key="tintColor" red="0.10980392160000001" green="0.6588235294" blue="0.86666666670000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="32" id="8Sa-zj-8YM"/>
+                            <constraint firstAttribute="width" constant="32" id="Dc1-vh-Maj"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pt5-8s-QbE">
+                        <rect key="frame" x="48" y="13" width="167" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="kTQ-TE-tzb"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QGz-Qx-XGI">
+                        <rect key="frame" x="223" y="13" width="56" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="FxZ-ym-FHU"/>
+                            <constraint firstAttribute="width" constant="56" id="WaM-1C-8yS"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Fcb-Dw-Ayp" firstAttribute="leading" secondItem="HeM-Sy-euP" secondAttribute="leadingMargin" id="1Sb-8Y-tr6"/>
+                    <constraint firstItem="Pt5-8s-QbE" firstAttribute="leading" secondItem="Fcb-Dw-Ayp" secondAttribute="trailing" constant="8" id="7JL-Nb-rtX"/>
+                    <constraint firstItem="Fcb-Dw-Ayp" firstAttribute="bottom" secondItem="HeM-Sy-euP" secondAttribute="bottomMargin" id="AdZ-Rn-54Z"/>
+                    <constraint firstItem="QGz-Qx-XGI" firstAttribute="leading" secondItem="Pt5-8s-QbE" secondAttribute="trailing" constant="8" id="Hkr-fB-Gbf"/>
+                    <constraint firstItem="QGz-Qx-XGI" firstAttribute="centerY" secondItem="Fcb-Dw-Ayp" secondAttribute="centerY" id="QYP-QV-siA"/>
+                    <constraint firstItem="Fcb-Dw-Ayp" firstAttribute="top" secondItem="HeM-Sy-euP" secondAttribute="topMargin" id="dV4-nv-2t3"/>
+                    <constraint firstItem="Pt5-8s-QbE" firstAttribute="centerY" secondItem="Fcb-Dw-Ayp" secondAttribute="centerY" id="nhH-Ep-HzA"/>
+                    <constraint firstItem="QGz-Qx-XGI" firstAttribute="trailing" secondItem="HeM-Sy-euP" secondAttribute="trailingMargin" id="yZ0-UP-0Ac"/>
+                </constraints>
+                <variation key="default">
+                    <mask key="constraints">
+                        <exclude reference="AdZ-Rn-54Z"/>
+                    </mask>
+                </variation>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="imgThumb" destination="Fcb-Dw-Ayp" id="wjW-U6-e6u"/>
+                <outlet property="lblInfo" destination="QGz-Qx-XGI" id="VM2-qR-ezn"/>
+                <outlet property="lblTitle" destination="Pt5-8s-QbE" id="WLr-ay-HU8"/>
+            </connections>
+            <point key="canvasLocation" x="510" y="59.5"/>
+        </tableViewCell>
+    </objects>
+</document>
